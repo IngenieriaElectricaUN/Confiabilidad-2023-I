@@ -14,8 +14,8 @@ Repositorio de información de la asignatura: Confiabilidad de sistemas eléctri
 
 | Título        | Clase         | Ejercicios | Video
 |:--------------------|:--------------------:|:--------------------:|:--------------------
-| Tipos de Datos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://github.com/jdmarinj/Confiabilidad-2023-I/blob/main/Confiabilidad.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](h ) | [Video](https://www.youtube.com  |
-| POO Pac Man | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https:// .ipynb) | - | - |
+| Probabilidades| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jdmarinj/Confiabilidad-2023-I/blob/main/Confiabilidad.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](h ) | [Video](https://www.youtube.com  |
+ 
 
 
 
