@@ -11,6 +11,8 @@ Repositorio de información de la asignatura: Confiabilidad de sistemas eléctri
 | Juan David Marín Jiménez | jdmarinj@gmail.com | Profesor|
 
 
+<img src='http://grupogamacocom.ipage.com/Imagenes/logoUN1.png' width='200px' margin='100px'></img>
+
 
 | Título        | Clase         | Ejercicios | Video
 |:--------------------|:--------------------:|:--------------------:|:--------------------
