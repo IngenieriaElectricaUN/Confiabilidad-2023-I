@@ -16,7 +16,7 @@ Repositorio de información de la asignatura: Confiabilidad de sistemas eléctri
 
 | Título        | Clase         | Ejercicios | Video
 |:--------------------|:--------------------:|:--------------------:|:--------------------
-| Probabilidades| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jdmarinj/Confiabilidad-2023-I/blob/main/Confiabilidad.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](h ) | [Video](https://www.youtube.com  |
+| Probabilidades| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/IngenieriaElectricaUN/Confiabilidad-2023-I/blob/main/1.%20Confiabilidad.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](h ) | [Video](https://www.youtube.com  |
  
 
 
